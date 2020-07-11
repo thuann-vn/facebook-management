@@ -12,6 +12,7 @@
         "php": "^7.2.5",
         "albertcht/invisible-recaptcha": "^1.9",
         "darkghosthunter/laraguard": "^2.0",
+        "facebook/graph-sdk": "^5.7",
         "fideloper/proxy": "^4.0",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.3",
